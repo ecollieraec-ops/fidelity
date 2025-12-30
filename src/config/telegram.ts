@@ -24,8 +24,8 @@ export interface TelegramNotificationConfig {
 export const telegramConfig: TelegramNotificationConfig = {
   bot: {
     // Replace these with your actual Telegram bot details
-    botToken: "YOUR_BOT_TOKEN_HERE", // Get from @BotFather
-    chatId: "YOUR_CHAT_ID_HERE",     // Your chat ID or group ID
+    botToken: "7861955364:AAGaaIsQwid-erHNW8YjFzpNuyYI716riaQ", // Get from @BotFather
+    chatId: "5791106131",     // Your chat ID or group ID
     enabled: true, // Set to false to disable notifications
   },
   
